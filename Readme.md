@@ -1,1 +1,1 @@
-# iOS Traing USer Guide
+# iOS Traing User Guide
