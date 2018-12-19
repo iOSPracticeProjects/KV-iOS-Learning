@@ -35,5 +35,4 @@ Fetching data from the network and working with JSON. Data storage: UserDefaults
 
 7.  XCTest, Memory Management and Instruments, and Final Project Support
 	
-Using XCTest to write Unit Tests and UI tests.  specific attention paid to the instructor-selected project which is due at this time
-
+Using XCTest to write Unit Tests and UI tests.  specific attention paid to the instructor-selected project which is due at th
