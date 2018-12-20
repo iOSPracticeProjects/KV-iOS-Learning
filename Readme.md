@@ -1,4 +1,4 @@
-# iOS Traing USer Guide
+# iOS Traning User Guide
 ## Major Topics
 
 
